@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+# Announcements
+## Orientation Week
+Tell us what you want to see from BESA during O-week! Fill out this form by August 11th.
 
-You can use the [editor on GitHub](https://github.com/besa-uoft/besa-uoft/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Interested in High School Outreach? Get Involved with the Discovery Program this Fall!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Discovery is recruiting volunteer mentors for the Fall semester! Help mentor high school students in virtual capstone-style design or experimental projects! The expected time commitment is 1-2 hours per week for 6-8 weeks beginning in October. Discovery offers Graduate Professional Skills and Co-Curricular Record credit.
 
-### Markdown
+For more information, please visit https://www.uoftdiscovery.ca/  or email discovery@utoronto.ca. You can sign up for this semester at https://forms.gle/XBp4cHTpBze6FWsEA.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/besa-uoft/besa-uoft/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Join the Equity, Diversity, and Inclusion Commission!
+To address racism and discrimination within the university, GECoS is calling for passionate volunteers to form our new Equity, Diversity, & Inclusion Commission (no experience necessary!). The purpose of this group is to bring a diverse group of grad students together who want to work on EDI and anti-racism initiatives in a supportive and impactful space. The group will create their own action items/recommendations and will be supported by GECoS; the Engineering Equity, Diversity, Inclusion Action Group; and the Dean's Office. Fill out this form to join. Let's create an actively anti-racist and inclusive environment for everyone! As a starting point, here is an article with 10 things we can do to support Black students, staff, and faculty in our university. Any questions/comments, please send them to gecos.utoronto.ca.
