@@ -19,4 +19,4 @@ Click here to fill this form for a chance to win $50 gift cards. What are you do
 The TERMIS (Tissue Engineering and Regenerative Medicine International Society) Student and Young Investigator Section (SYIS) council is excited to announce the TERMIS SYIS VIRTUAL SEMINAR SERIES - a collaborative effort between TERMIS-SYIS EU & TERMIS-SYIS AM to showcase the research of TERMIS members in the Americas & Europe. This series will highlight students and young investigators performing research in the field of tissue engineering and regenerative medicine. Seminars will be given in a one-hour webinar format with twenty minutes for each presenter, including a five-minute Q&A. It will be held every Thursday starting September 3rd. Deadline for talk submission is August 6th, 2020!
 
 Apply at the link 👉
-https://docs.google.com/forms/d/e/1FAIpQLSd2pSurLhmQPabWT9jnCrR2ZWxmeEiXHkNHI7WbH6zdROZxvA/viewform
+[https://docs.google.com/forms/d/e/1FAIpQLSd2pSurLhmQPabWT9jnCrR2ZWxmeEiXHkNHI7WbH6zdROZxvA/viewform](https://docs.google.com/forms/d/e/1FAIpQLSd2pSurLhmQPabWT9jnCrR2ZWxmeEiXHkNHI7WbH6zdROZxvA/viewform)
