@@ -20,3 +20,10 @@ The TERMIS (Tissue Engineering and Regenerative Medicine International Society) 
 
 Apply at the link 👉
 [https://docs.google.com/forms/d/e/1FAIpQLSd2pSurLhmQPabWT9jnCrR2ZWxmeEiXHkNHI7WbH6zdROZxvA/viewform](https://docs.google.com/forms/d/e/1FAIpQLSd2pSurLhmQPabWT9jnCrR2ZWxmeEiXHkNHI7WbH6zdROZxvA/viewform)
+
+-------------
+
+# 🎆New Publications!🎆
+
+Got a new publication? Want us to tweet about it? Fill out the form below:
+[https://forms.gle/bQDc1rMiNhptFoby9](https://forms.gle/bQDc1rMiNhptFoby9)
