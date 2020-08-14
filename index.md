@@ -1,4 +1,22 @@
 # Announcements
+
+## ToBE Conference Executive Committee
+Hello BME Students,
+
+The application process for the executive positions on the ToBE Conference committee is now open. Please consider applying.
+
+Detailed information is available at [https://tinyurl.com/y6jafzwc](https://tinyurl.com/y6jafzwc)
+
+The application form is available at [https://forms.gle/6Rh1aEAbEtqVEHmq9](https://forms.gle/6Rh1aEAbEtqVEHmq9)
+
+The deadline for applications is 5:00 p.m. on Tuesday, September 1, 2020.
+
+Please note that the application will take approximately 15 minutes to complete. In addition to requesting general contact information, the application will ask for details on relevant volunteer experience that will assist in contributing to the conference planning.
+
+Thank you for your interest.
+
+ToBE 2021 Conference Chair
+
 ## Orientation Week
 Tell us what you want to see from BESA during O-week! Fill out [this](https://utoronto.us11.list-manage.com/track/click?u=e40ad4f7528711b59d6b11525&id=522c5dbf06&e=446505edb8) form by August 11th.
 
