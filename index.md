@@ -5,9 +5,9 @@ Hello BME Students,
 
 The application process for the executive positions on the ToBE 2021 Conference committee is now open. Please consider applying.
 
-Detailed information is available at (https://tinyurl.com/y6jafzwc)[https://tinyurl.com/y6jafzwc]
+Detailed information is available at [https://tinyurl.com/y6jafzwc](https://tinyurl.com/y6jafzwc)
 
-The application form is available at (https://forms.gle/6Rh1aEAbEtqVEHmq9)[https://forms.gle/6Rh1aEAbEtqVEHmq9]
+The application form is available at [https://forms.gle/6Rh1aEAbEtqVEHmq9](https://forms.gle/6Rh1aEAbEtqVEHmq9)
 
 The deadline for applications is 5:00 p.m. on Thursday, September 10, 2020.
 
