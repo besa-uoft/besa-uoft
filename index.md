@@ -1,5 +1,26 @@
 # Announcements
 
+## Orientation Week 2020
+
+Hello new IBME-ers! Hope you're all looking forward to a new school year at UofT. We've got loads of activities to help you get acquainted with Toronto, the University, and your fellow classmates (physically distant, of course).  If you'd like to participate, fill out the following form:
+
+[https://www.surveymonkey.com/r/6FVDZ3R](https://www.surveymonkey.com/r/6FVDZ3R)
+
+### Events
+*Toronto 101:* For those new to the city of Toronto and UofT, join us over Zoom for an online event aimed at providing useful tricks and tips, as well as what to check out in the city. Registration for Toronto 101 comes with a 20$ gift card to Metro.
+
+*Panel discussion:* Join us over Zoom as we talk with recent graduates of the program and young professionals to hear about their experience in grad school. Registration for the Panel discussion comes with a 20$ with a Skip The Dishes.
+
+*Paint night:* Want to let out your creative side? Register for paint night to get a kit mailed to you before you join us online!
+
+*Kayak tour:* Sign up for a 3-hour kayaking tour starting at the Harbourfront Canoe and Kayak Center.
+
+*Yoga session:* Enjoy a yoga workout with a professional instructor in downtown Toronto.
+
+*The deadline to fill out the form is Wednesday, September 2 by 10 PM.*
+
+-------------
+
 ## ToBE Conference Executive Committee
 Hello BME Students,
 
