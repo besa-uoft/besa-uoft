@@ -1,6 +1,14 @@
 # Announcements
 
 -------------
+## BME Pro-Dev Committee 2020
+
+Thinking about what to do after grad school? Want to start building your own professional network (it's never too late/early)? Want to make an impact in the BME community?
+
+BESA 2020-21 Pro-Dev team might be for you! Applications open until October 16th:
+https://t.co/mGqNCQcMrl
+
+-------------
 
 ## Interested in High School Outreach? Get Involved with the Discovery Program this Fall!
 
