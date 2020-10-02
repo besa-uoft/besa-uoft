@@ -5,6 +5,7 @@ Congratulations to this year's newest members of the BESA Executive Committee!
 
 ###  University Affairs Representatives & Social Directors
 Eugene Hwang, MASc Candidate, Zariffa Lab
+
 Anson Lau, PhD Candidate, Khan Lab
 
 ###  Outreach Director
