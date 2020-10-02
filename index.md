@@ -27,7 +27,7 @@ Eugene Hwang, MASc Candidate, Zariffa Lab
 #### MaRS andSickKids
 Ankit Sharma, ClinEng
 
--------------
+
 
 # Events
 
@@ -47,7 +47,7 @@ Let's Talk Science is excited to launch its very first Bioengineering Day at the
 
 Registration: [https://forms.gle/yCEvV5cLHCYLCXJb7](https://forms.gle/yCEvV5cLHCYLCXJb7)
 
--------------
+
 
 # Announcements
 
