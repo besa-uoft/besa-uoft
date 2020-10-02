@@ -1,25 +1,38 @@
+# Events
+
+-------------
+
+## BESA Pro-Dev is recruiting!
+
+BESA 2020-21 is recruiting members for this year's Pro-Dev team! If you are interested in building your own ProDev network and helping shape ProDev opportunities for the BESA community, then please consider applying for the team- we would love to have you!
+
+Registration: [https://forms.gle/uYYqW1zbu6VoA6ab8](https://forms.gle/uYYqW1zbu6VoA6ab8)
+
+-------------
+
+## Let's Talk Science: Bioaaaengineering Day
+
+Let's Talk Science is excited to launch its very first Bioengineering Day at the end of November 2020! Aimed at grade 11-12, this virtual symposia aims to give students an overview of bioengineering, with a focus on applications of bioengineering in medicine. We are looking for one co-chair to oversee the programming development, as well as 2-3 content developers. Experience and knowledge in bioengineering is preferred!
+
+Registration: [https://forms.gle/yCEvV5cLHCYLCXJb7](https://forms.gle/yCEvV5cLHCYLCXJb7)
+
+-------------
+
 # Announcements
 
 -------------
-## BME Pro-Dev Committee 2020
+## Get to Know H2i (Health 2 Innovation) – Supporting Entrepreneurs at Every Stage
 
-Thinking about what to do after grad school? Want to start building your own professional network (it's never too late/early)? Want to make an impact in the BME community?
+Our Vision
+To create culture, infrastructure and momentum that translates discoveries and ideas into problem-solving designs, services and products, to foster the success of 100 companies over the next 10 years.
 
-BESA 2020-21 Pro-Dev team might be for you! Applications open until October 16th:
-https://t.co/mGqNCQcMrl
+Our Plan
+Enable: Build and sustain a culture and community of innovation
+Collaborate: bring together networks & partnerships
+Educate: coordinate and maintain mentorship & education programs
+Facilitate: work to provide innovators access to equipment, people, patients and places
 
--------------
-
-## Interested in High School Outreach? Get Involved with the Discovery Program this Fall!
-
-Discovery is recruiting volunteer mentors for the Fall semester! Help mentor high school students in virtual capstone-style design or experimental projects! The expected time commitment is 1-2 hours per week for 6-8 weeks beginning in October. Discovery offers Graduate Professional Skills and Co-Curricular Record credit.
-
-For more information, please visit https://www.uoftdiscovery.ca/  or email [discovery@utoronto.ca](discovery@utoronto.ca). You can sign up for this semester at https://forms.gle/XBp4cHTpBze6FWsEA.
-
--------------
-
-## Join the Equity, Diversity, and Inclusion Commission!
-To address racism and discrimination within the university, GECoS is calling for passionate volunteers to form our new Equity, Diversity, & Inclusion Commission (no experience necessary!). The purpose of this group is to bring a diverse group of grad students together who want to work on EDI and anti-racism initiatives in a supportive and impactful space. The group will create their own action items/recommendations and will be supported by GECoS; the Engineering Equity, Diversity, Inclusion Action Group; and the Dean's Office. Fill out [this](https://utoronto.us11.list-manage.com/track/click?u=e40ad4f7528711b59d6b11525&id=a2cd356668&e=446505edb8) form to join. Let's create an actively anti-racist and inclusive environment for everyone! As a starting point, here is an article with 10 things we can do to support Black students, staff, and faculty in our university. Any questions/comments, please send them to [gecos.utoronto.ca](https://utoronto.us11.list-manage.com/track/click?u=e40ad4f7528711b59d6b11525&id=3f759cfbcb&e=446505edb8).
+Registration for the H2i Newsletter: [https://h2i.utoronto.ca/subscribe/](https://h2i.utoronto.ca/subscribe/)
 
 -------------
 
