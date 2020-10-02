@@ -1,3 +1,34 @@
+# BESA Junior Executive Committee
+Congratulations to this year's newest members of the BESA Executive Committee!
+-------------
+###  University Affairs Representatives & Social Directors
+Eugene Hwang, MASc Candidate, Zariffa Lab
+Anson Lau, PhD Candidate, Khan Lab
+
+###  Outreach Director
+Maryam Mahjoob, MASc Candidate, Kushki Lab
+
+### Social Media Director
+Monica Lecce, MASc Candidate, Simmons Lab
+
+### Athletics Director
+Denis Margalik, MASc Candidate, Zheng Lab
+
+###  Senior Clinical Engineering Representative
+Ankit Sharma, ClinEng
+
+### Master of Engineering Representative
+Haoying (Lily) Sun, MEng Candidate
+
+### Site Representatives
+#### TRI, Princess Margaret and Mount Sinai
+Eugene Hwang, MASc Candidate, Zariffa Lab
+
+#### MaRS andSickKids
+Ankit Sharma, ClinEng
+
+-------------
+
 # Events
 
 -------------
@@ -21,6 +52,7 @@ Registration: [https://forms.gle/yCEvV5cLHCYLCXJb7](https://forms.gle/yCEvV5cLHC
 # Announcements
 
 -------------
+
 ## Get to Know H2i (Health 2 Innovation) – Supporting Entrepreneurs at Every Stage
 
 Our Vision
