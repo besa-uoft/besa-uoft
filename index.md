@@ -44,7 +44,7 @@ Registration: [https://forms.gle/uYYqW1zbu6VoA6ab8](https://forms.gle/uYYqW1zbu6
 
 -------------
 
-## Let's Talk Science: Bioaaaengineering Day
+## Let's Talk Science: Bioengineering Day
 
 Let's Talk Science is excited to launch its very first Bioengineering Day at the end of November 2020! Aimed at grade 11-12, this virtual symposia aims to give students an overview of bioengineering, with a focus on applications of bioengineering in medicine. We are looking for one co-chair to oversee the programming development, as well as 2-3 content developers. Experience and knowledge in bioengineering is preferred!
 
