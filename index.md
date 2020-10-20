@@ -1,38 +1,20 @@
-# BESA Junior Executive Committee
-Congratulations to this year's newest members of the BESA Executive Committee!
+# Events
 
 -------------
 
-###  University Affairs Representatives & Social Directors
-Eugene Hwang, MASc Candidate, Zariffa Lab
+## Halloween Picture Contest
 
-Anson Lau, PhD Candidate, Khan Lab
+Hello BME-ers!
 
-###  Outreach Director
-Maryam Mahjoob, MASc Candidate, Kushki Lab
+We hope you have all had a successful start to the semester. Thank you to those who attended O-Week!
 
-### Social Media Director
-Monica Lecce, MASc Candidate, Simmons Lab
+Surely everybody is looking forward to Halloween, and with that we’re excited to announce that we’ll be holding a picture competition!
 
-### Athletics Director
-Denis Margalik, MASc Candidate, Zheng Lab
+Send us your spookiest picture by Oct. 29th ([besa.bme@utoronto.ca](besa.bme@utoronto.ca)) and on Halloween day we’ll all vote on our favorites! The top three finishers will get a 30, 20 and 10$ gift card of their choice.
 
-###  Senior Clinical Engineering Representative
-Ankit Sharma, ClinEng
+Pictures can be anything from a costume (present or past), decorations, or Halloween art! Make sure to factor creativity and spooooookiness into your submissions.
 
-### Master of Engineering Representative
-Haoying (Lily) Sun, MEng Candidate
-
-### Site Representatives
-#### TRI, Princess Margaret and Mount Sinai
-Eugene Hwang, MASc Candidate, Zariffa Lab
-
-#### MaRS andSickKids
-Ankit Sharma, ClinEng
-
-
-
-# Events
+Looking forward to seeing everyone’s Halloween spirit!
 
 -------------
 
