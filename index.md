@@ -11,8 +11,9 @@ To continue with the Halloween Spirit, we are psyched to announce that we will b
 
 Looking forward to seeing everyone!
 
-- BESA
-Zoom Details
+-BESA
+
+### Zoom Details
 
 [https://us02web.zoom.us/j/83067896778?pwd=TUxEYTNueTFIZm1yb3RKUGdrcURKUT09](https://us02web.zoom.us/j/83067896778?pwd=TUxEYTNueTFIZm1yb3RKUGdrcURKUT09)
 Meeting ID: 830 6789 6778
