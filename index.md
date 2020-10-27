@@ -15,11 +15,7 @@ Looking forward to seeing everyone!
 
 ### Zoom Details
 
-[https://us02web.zoom.us/j/83067896778?pwd=TUxEYTNueTFIZm1yb3RKUGdrcURKUT09](https://us02web.zoom.us/j/83067896778?pwd=TUxEYTNueTFIZm1yb3RKUGdrcURKUT09)
-
-Meeting ID: 830 6789 6778
-
-Passcode: 457786
+DM us or email us for details!
 
 ### Scener Download Link
 
