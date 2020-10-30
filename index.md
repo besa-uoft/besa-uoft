@@ -11,7 +11,7 @@ Here's the link to vote in our Halloween Picture Contest! The deadline to vote i
 - BESA
 
 Link to Vote:
-https://www.surveymonkey.com/r/BCLLG5J
+[https://www.surveymonkey.com/r/BCLLG5J](https://www.surveymonkey.com/r/BCLLG5J)
 
 -------------
 
