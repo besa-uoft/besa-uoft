@@ -1,5 +1,19 @@
 # Events
 
+-------------
+
+## Halloween Picture Contest
+
+Hey there BME!
+
+Here's the link to vote in our Halloween Picture Contest! The deadline to vote is October 31 by MIDNIGHT!
+
+- BESA
+
+Link to Vote:
+https://www.surveymonkey.com/r/BCLLG5J
+
+-------------
 
 ## Halloween Movie Night
 
@@ -24,22 +38,6 @@ DM us or email us for details!
 ### TwoSeven Download Link
 
 [https://chrome.google.com/webstore/detail/twoseven-extension/cjdnfmjmdligcpfcekfmenlhiopehjkd?hl=en](https://chrome.google.com/webstore/detail/twoseven-extension/cjdnfmjmdligcpfcekfmenlhiopehjkd?hl=en)
-
--------------
-
-## Halloween Picture Contest
-
-Hello BME-ers!
-
-We hope you have all had a successful start to the semester. Thank you to those who attended O-Week!
-
-Surely everybody is looking forward to Halloween, and with that we’re excited to announce that we’ll be holding a picture competition!
-
-Send us your spookiest picture by Oct. 29th ([besa.bme@utoronto.ca](besa.bme@utoronto.ca)) and on Halloween day we’ll all vote on our favorites! The top three finishers will get a 30, 20 and 10$ gift card of their choice.
-
-Pictures can be anything from a costume (present or past), decorations, or Halloween art! Make sure to factor creativity and spooooookiness into your submissions.
-
-Looking forward to seeing everyone’s Halloween spirit!
 
 -------------
 
