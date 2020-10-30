@@ -53,7 +53,7 @@ There are a limited number of Uber Eats gift cards for each department So sign-u
 
 See you all there!
 
-- GECoS
+-GECoS
 
 (The event registration requires a 5$ deposit that will be returned to you after you attend the event. If you book a ticket and do not attend the event, you will be charged the 5$. This deposit is to ensure that the limited number of gift cards are not wasted on no shows and that we plan accordingly )
 
