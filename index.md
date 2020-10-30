@@ -8,7 +8,7 @@ Hey there BME!
 
 Here's the link to vote in our Halloween Picture Contest! The deadline to vote is October 31 by MIDNIGHT!
 
-- BESA
+-BESA
 
 Link to Vote:
 [https://www.surveymonkey.com/r/BCLLG5J](https://www.surveymonkey.com/r/BCLLG5J)
